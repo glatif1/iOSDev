@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:MVCTableView.xcodeproj">
+      location = "group:/Users/Pear/Desktop/iOS Dev/MVVMTableView/MVVMTableView.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
